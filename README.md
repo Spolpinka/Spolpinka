@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/<JAVA>-<STUDENT>-<RED>.svg)](https://shields.io/)
 
-[![Maintenance](https://img.shields.io/badge/maintainer-theMaintainer-blue)](https://github.com/Spolpinka/OutputExcel)
+[![Maintenance](https://img.shields.io/badge/Spolpinka-theMaintainer-red)](https://github.com/Spolpinka/OutputExcel)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Spolpinka/AskMeEverything#askmeeverything)
 

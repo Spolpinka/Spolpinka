@@ -1,6 +1,6 @@
 @Spolpinka
 
-[![Generic badge](https://img.shields.io/badge/<SUBJ>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<JAVA>-<STUDENT>-<RED>.svg)](https://shields.io/)
 
 [![Maintenance](https://img.shields.io/badge/maintainer-theMaintainer-blue)](https://github.com/Spolpinka/OutputExcel)
 

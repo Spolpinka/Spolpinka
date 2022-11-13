@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Spolpinka
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java at SkyPro
+
 About here we finished with the boring words and moved on to the fun ones
 
 

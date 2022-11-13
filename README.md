@@ -4,7 +4,7 @@
 
 [![Maintenance](https://img.shields.io/badge/maintainer-xmlAnalyse-red)](https://github.com/Spolpinka/OutputExcel)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Spolpinka/AskMeEverything#askmeeverything)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-blue.svg)](https://github.com/Spolpinka/AskMeEverything#askmeeverything)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Spolpinka/)
 

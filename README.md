@@ -1,6 +1,6 @@
 @Spolpinka
 
-[![Generic badge](https://img.shields.io/badge/<JAVA>-Junior-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JAVA-Junior-yellow.svg)](https://shields.io/)
 
 [![Maintenance](https://img.shields.io/badge/maintainer-xmlAnalyse-red)](https://github.com/Spolpinka/OutputExcel)
 

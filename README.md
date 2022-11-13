@@ -1,6 +1,6 @@
 @Spolpinka
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<SUBJ>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 [![Maintenance](https://img.shields.io/badge/maintainer-theMaintainer-blue)](https://github.com/Spolpinka/OutputExcel)
 
@@ -8,6 +8,8 @@
 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Spolpinka/AskMeEverything#askmeeverything)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Spolpinka/)
 
 <!---
 Spolpinka/Spolpinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

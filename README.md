@@ -19,6 +19,7 @@
 
 ## Certificates
 [*HackerRank*](https://www.hackerrank.com/certificates/3c1bcff1b003)
+
 [*CodinGame*](https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ)
 
 

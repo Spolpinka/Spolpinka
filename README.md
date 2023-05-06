@@ -6,7 +6,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width=200 style="float: right;">
 </picture>-->
 
-<img src="https://raw.githubusercontent.com/Spolpinka/certificates/94aea197d5a7742bbe2f2f29ce245784dacfa357/pngwing.com.png?token=A2IWPRTY3XX7FMB2TSACDDTEKXZDE" width=300>
+<img src="https://raw.githubusercontent.com/Spolpinka/certificates/94aea197d5a7742bbe2f2f29ce245784dacfa357/pngwing.com.png?token=A2IWPRTY3XX7FMB2TSACDDTEKXZDE" width=300 height=200>
 
 
 <!-- <img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" width="100%"> -->

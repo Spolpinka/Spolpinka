@@ -13,6 +13,7 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 https://www.hackerrank.com/certificates/3c1bcff1b003
+
 https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ
 <!---
 Spolpinka/Spolpinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

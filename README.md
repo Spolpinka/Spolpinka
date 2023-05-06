@@ -19,7 +19,7 @@
 
 ## Certificates
 [*HackerRank*](https://www.hackerrank.com/certificates/3c1bcff1b003)
-<img src="Certification.jpg">
+<img src="https://github.com/Spolpinka/certificates/commit/76db5f85586903ccfda404e4a8da7a5f8d0074a4#diff-f2d228de9ef88b9b3342eaf62f9005cc73715aa2d007a6c8c4f851942ffbd084">
 
 [*CodinGame*](https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ)
 

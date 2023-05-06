@@ -1,6 +1,6 @@
 @Spolpinka
 
-<iframe src="(https://www.hackerrank.com/certificates/iframe/3c1bcff1b003)" width="100%" height="400"></iframe>
+<iframe src="https://www.hackerrank.com/certificates/iframe/3c1bcff1b003">
 
 <img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" width="100%">
 

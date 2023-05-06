@@ -11,9 +11,6 @@
 
 <!-- <img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" width="100%"> -->
 
-
-
-
 [![Generic badge](https://img.shields.io/badge/JAVA-Junior-yellow.svg)](https://www.hackerrank.com/certificates/3c1bcff1b003)
 [![Generic badge](https://img.shields.io/badge/JAVA-Junior-yellow.svg)](https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ)
 

@@ -25,6 +25,8 @@
 
 [*CodinGame*](https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ)
 
+<img src="https://github.com/Spolpinka/certificates/blob/main/java_basic%20certificate.jpg?raw=true" width=400>
+
 
 <!---
 Spolpinka/Spolpinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,6 +17,8 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Spolpinka/)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
+## Certificates
+
 https://www.hackerrank.com/certificates/3c1bcff1b003
 
 https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ

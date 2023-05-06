@@ -1,8 +1,7 @@
 @Spolpinka
 
-<iframe 
-  width="100%" height="500px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.sky-map.org/?object=custom&ra=15.65837&de=+54.04132&zoom=12&show_grid=1&show_constellation_lines=1&show_constellation_boundaries=1&show_star_names=1&star_size=1.50&show_deepsky=1&output=embed"
- /iframe>
+<iframe src="https://www.hackerrank.com/certificates/iframe/3c1bcff1b003" width="100%" height="400"></iframe>
+
 
 
 [![Generic badge](https://img.shields.io/badge/JAVA-Junior-yellow.svg)](https://www.hackerrank.com/certificates/3c1bcff1b003)

@@ -21,11 +21,11 @@
 [*HackerRank*](https://www.hackerrank.com/certificates/3c1bcff1b003)
 
 
-<img src="https://raw.githubusercontent.com/Spolpinka/certificates/76db5f85586903ccfda404e4a8da7a5f8d0074a4/Certification.jpg?token=A2IWPRTW5OB23JO2EIWXPEDEKXWRG" width=400 higth=600>
+<img src="https://github.com/Spolpinka/certificates/blob/main/java_basic%20certificate.jpg?raw=true" width=400>
 
 [*CodinGame*](https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ)
 
-<img src="https://github.com/Spolpinka/certificates/blob/main/java_basic%20certificate.jpg?raw=true" width=400>
+<img src="https://raw.githubusercontent.com/Spolpinka/certificates/76db5f85586903ccfda404e4a8da7a5f8d0074a4/Certification.jpg?token=A2IWPRTW5OB23JO2EIWXPEDEKXWRG" width=400 higth=600>
 
 
 <!---

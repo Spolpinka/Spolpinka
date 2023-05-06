@@ -1,4 +1,4 @@
-##### Spolpinka
+# Spolpinka
 
 <!-- <img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" width="100%"> -->
 

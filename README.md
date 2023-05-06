@@ -2,7 +2,7 @@
 
 <iframe src="(https://www.hackerrank.com/certificates/iframe/3c1bcff1b003)" width="100%" height="400"></iframe>
 
-<img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" alt="Галактика Киля">
+<img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" width="100%">
 
 
 

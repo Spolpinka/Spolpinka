@@ -21,7 +21,7 @@
 <!-- [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://kartinkof.club/jumor/memi/193-memy-pro-blizkuju-zimu-50-foto.html)-->
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Spolpinka/)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](https://en.wikipedia.org/wiki/Electricity)
 
 ## Certificates
 [*HackerRank*](https://www.hackerrank.com/certificates/3c1bcff1b003)

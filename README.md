@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/Spolpinka/certificates/94aea197d5a7742bbe2f2f29ce245784dacfa357/pngwing.com.png?token=A2IWPRTY3XX7FMB2TSACDDTEKXZDE" width=300 height=200>
 </picture>-->
 
-<img src="https://raw.githubusercontent.com/Spolpinka/certificates/94aea197d5a7742bbe2f2f29ce245784dacfa357/pngwing.com.png?token=A2IWPRTY3XX7FMB2TSACDDTEKXZDE" width=300 height=200>
+<img src="https://github.com/Spolpinka/certificates/blob/main/pngwing.com.png?raw=true" width=300 height=200>
 
 <!-- <img src="https://novate.ru/files/u34476/nasa-photos-02.jpg" width="100%"> -->
 
@@ -31,7 +31,7 @@
 
 [*CodinGame*](https://www.codingame.com/certification/Qsdl5-x9tKC5JkQpgc0nsQ)
 
-<img src="https://raw.githubusercontent.com/Spolpinka/certificates/76db5f85586903ccfda404e4a8da7a5f8d0074a4/Certification.jpg?token=A2IWPRTW5OB23JO2EIWXPEDEKXWRG" width=400 higth=600>
+<img src="https://github.com/Spolpinka/certificates/blob/main/Certification.jpg?raw=true" width=400 higth=600>
 
 
 <!---
